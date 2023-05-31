@@ -2,7 +2,7 @@
 Славчо Карафиловски 213096
 
 # Control Flow Graph
-![lucky 7 drawio](https://github.com/slavcho-k/SI_2023_lab2_213096/assets/107281167/5953c6bf-2fa9-4bae-9361-3ac007b3ea14)
+![diagram](https://github.com/slavcho-k/SI_2023_lab2_213096/assets/107281167/3f69885d-cab5-4d6a-b7c1-92d7611a52a3)
 
 # Цикломатската комплексност
 CK = E - N + 2
